@@ -1226,8 +1226,14 @@ $ ./forin3.sh
  
 # Output
 
-![alt text](<Screenshot from 2024-02-27 22-15-10.png>)
-
+```
+word:I
+word:don't
+word:know
+word:if
+word:this'll
+word:work
+```
 cat forin1.sh 
 ```bash
 #!/bin/bash
